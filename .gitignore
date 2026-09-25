@@ -8,3 +8,6 @@ Thumbs.db
 # Temporary
 *.tmp
 *.swp
+
+# Obsidian 本地配置（不要提交）
+.obsidian/
