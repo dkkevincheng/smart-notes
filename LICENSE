@@ -1,0 +1,51 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (c) 2026 smart-notes
+Everyone is permitted to copy and distribute verbatim copies of this
+license document, but changing it is not allowed.
+
+                       Preamble
+
+The GNU Affero General Public License is a free, copyleft license
+for software and other kinds of works.
+
+[See full license at: https://www.gnu.org/licenses/agpl-3.0.html]
+
+---
+
+## 商用需要授权
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+**Commercial use requires authorization from the copyright holder.**
+
+If you wish to use this project for commercial purposes, please
+contact the author for licensing.
+
+---
+
+## Permissions
+
+- ✅ Private use and modification allowed
+- ✅ Distribution of source code allowed
+- ✅ Using this work in commercial products requires authorization
+
+## Requirements
+
+- 🔒 Modifications must be released under the same license
+- 🔒 Source code must be made available when distributing
+- 🔒 Complete permissions notice must be preserved
+
+---
+
+Contact: [Author Email]
+Project: https://github.com/dkkevincheng/smart-notes
