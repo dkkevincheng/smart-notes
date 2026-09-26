@@ -1,0 +1,9 @@
+{
+  "id": "ob-english-learner",
+  "name": "OB English Learner",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "English learning assistant for Obsidian with TTS, AI translation, and audio management.",
+  "author": "kevin+ai",
+  "isDesktopOnly": false
+}

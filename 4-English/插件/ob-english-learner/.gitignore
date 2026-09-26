@@ -1,0 +1,45 @@
+# vscode
+.vscode 
+
+# Intellij
+*.iml
+.idea
+
+# npm
+node_modules
+
+# Don't include the compiled main.js file in the repo.
+# They should be uploaded to GitHub releases instead.
+main.js
+
+# Exclude sourcemaps
+*.map
+
+# obsidian
+data.json
+
+# Exclude macOS Finder (System Explorer) View States
+.DS_Store
+
+# Build and release artifacts
+release/
+release.zip
+*.zip
+
+# Temporary documentation files
+*_FIX.md
+*_ENHANCED.md
+*_REPORT.md
+*_SUMMARY.md
+*_COMPLETE.md
+*_STATUS.md
+*_CHECK.md
+PUSH-TO-GITHUB.md
+FILE-STRUCTURE.md
+
+# Build scripts (not needed for users)
+build-release.ps1
+verify-build.ps1
+
+# Temporary Chinese documentation
+说明.md

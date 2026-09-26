@@ -1,0 +1,35 @@
+{
+  "tts": {
+    "workspace": "llm-k2xjlgq4u73czbcj",
+    "model": "qwen-audio-3.0-tts-flash",
+    "defaultVoice": "longanfengyue",
+    "voices": [
+      {"id": "longanfengyue", "name": "longanfengyue (Female, 30)"},
+      {"id": "longanyuanfei", "name": "longanyuanfei (Female, 30)"},
+      {"id": "longanlingxi", "name": "longanlingxi (Female, 25)"},
+      {"id": "longanxiaoxin", "name": "longanxiaoxin (Female, 22)"},
+      {"id": "longanhuan_v3.6", "name": "longanhuan (Female, 25)"},
+      {"id": "longjielidou_v3.6", "name": "longjielidou (Male, 5)"},
+      {"id": "longpaopao_v3.6", "name": "longpaopao (Female, 5)"},
+      {"id": "longhuohuo_v3.6", "name": "longhuohuo (Male, 8)"},
+      {"id": "longchuanshu_v3.6", "name": "longchuanshu (Male, 40)"},
+      {"id": "loongmary", "name": "loongmary (Female, 20)"},
+      {"id": "loongeva_v3.6", "name": "loongeva (Female, 28)"},
+      {"id": "loongjohn", "name": "loongjohn (Male, 28)"}
+    ]
+  },
+  "ai": {
+    "model": "qwen3.8-flash",
+    "baseUrl": "https://token-plan.cn-beijing.maas.aliyuncs.com/apps/anthropic",
+    "maxTokens": 1500,
+    "apiVersion": "2023-06-01"
+  },
+  "paths": {
+    "audioFolder": "01-音频/Recordings",
+    "ttsAudioFolder": "AloudFiles"
+  },
+  "templates": {
+    "audioFilename": "Recording_{{date}}{{seq}}",
+    "ttsFilename": "{{title}}_{{date}}{{time}}_{{seq}}"
+  }
+}
